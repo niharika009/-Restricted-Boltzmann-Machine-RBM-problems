@@ -51,3 +51,12 @@ Hidden nodes (nh): 100
 Batch size: 100
 
 Training epochs: 100
+
+
+RBM Functions:
+
+sample_h(x) → Sample hidden neurons given visible neurons
+
+sample_v(y) → Sample visible neurons given hidden neurons
+
+train(v0, vk, ph0, phk) → Update weights and biases
