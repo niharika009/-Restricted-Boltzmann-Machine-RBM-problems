@@ -10,3 +10,16 @@ Google Colab
 NumPy, Pandas
 
 PyTorch (Neural Networks)
+📂 Dataset
+
+We use the MovieLens 100k dataset, which contains:
+
+movies.dat → Movie details
+
+users.dat → User information
+
+ratings.dat → User ratings
+
+u1.base → Training set
+
+u1.test → Test set
