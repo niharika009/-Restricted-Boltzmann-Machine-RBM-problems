@@ -23,3 +23,12 @@ ratings.dat → User ratings
 u1.base → Training set
 
 u1.test → Test set
+
+
+Ratings are converted into binary values:
+
+1 (Liked) → ratings >= 3
+
+0 (Not liked) → ratings < 3
+
+-1 → No rating
