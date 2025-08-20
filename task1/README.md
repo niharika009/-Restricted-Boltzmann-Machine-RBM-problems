@@ -32,3 +32,11 @@ Ratings are converted into binary values:
 0 (Not liked) → ratings < 3
 
 -1 → No rating
+
+
+🔑 Features
+
+✔️ Implements an RBM architecture (with hidden & visible layers)
+✔️ Training loop with Contrastive Divergence
+✔️ Binary conversion of ratings for recommendation task
+✔️ Performance evaluation using test loss
