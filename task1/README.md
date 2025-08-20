@@ -60,3 +60,12 @@ sample_h(x) → Sample hidden neurons given visible neurons
 sample_v(y) → Sample visible neurons given hidden neurons
 
 train(v0, vk, ph0, phk) → Update weights and biases
+
+
+📌 Results
+
+The RBM successfully learns user preferences.
+
+Provides a low test loss, meaning it can recommend movies effectively.
+
+Can be extended to real-world recommendation systems.
