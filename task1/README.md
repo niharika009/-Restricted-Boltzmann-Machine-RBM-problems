@@ -40,3 +40,14 @@ Ratings are converted into binary values:
 ✔️ Training loop with Contrastive Divergence
 ✔️ Binary conversion of ratings for recommendation task
 ✔️ Performance evaluation using test loss
+
+
+🧠 RBM Architecture
+
+Visible nodes (nv): number of movies
+
+Hidden nodes (nh): 100
+
+Batch size: 100
+
+Training epochs: 100
