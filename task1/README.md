@@ -69,3 +69,12 @@ The RBM successfully learns user preferences.
 Provides a low test loss, meaning it can recommend movies effectively.
 
 Can be extended to real-world recommendation systems.
+
+
+🎯 Future Enhancements
+
+Use Autoencoders / Deep Learning for better predictions
+
+Implement Top-N recommendations
+
+Add visualizations of results
